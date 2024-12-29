@@ -62,3 +62,14 @@ Confusion matrix shown in below.
 
 ![Confusion Matrix for Random Forest](Image/random_forest.png)
 
+# Evaluation Metrics
+Accuracy: Percentage of correctly classified instances.
+Precision: Proportion of true positives among predicted positives.
+Recall: Proportion of true positives among actual positives.
+F1-Score: Harmonic mean of precision and recall.
+
+# Results
+The following table summarizes the performance of the classifiers:
+
+![Confusion Matrix for Random Forest](Image/Table.png)
+

@@ -70,5 +70,8 @@ F1-Score: Harmonic mean of precision and recall.
 # Results
 The following table summarizes the performance of the classifiers:
 
-![Confusion Matrix for Random Forest](Image/Table.png)
+![Results Table](Image/Table.png)
+
+![Comparision of Machine Learning Algorithms](Image/Comparision.png)
+
 

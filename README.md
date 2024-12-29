@@ -42,13 +42,13 @@ Visualized with its confusion matrix.
 Based on Bayes' theorem for probabilistic classification.
 Confusion matrix shown below.
 
-![Confusion Matrix for Navie Bayes](Image/Navie Bayes.png)
+![Confusion Matrix for Navie Bayes](Image/Navie_Bayes.png)
 
 # Logistic Regression
 Models binary outcomes with a logistic function.
 Confusion matrix shown below.
 
-![Confusion Matrix for Logistic Regression](Image/Logistic Regression.png)
+![Confusion Matrix for Logistic Regression](Image/Logistic_Regression.png)
 
 # Decision Tree
 Uses tree structures for decisions and classifications.

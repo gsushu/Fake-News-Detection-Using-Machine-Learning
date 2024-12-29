@@ -64,8 +64,11 @@ Confusion matrix shown in below.
 
 # Evaluation Metrics
 Accuracy: Percentage of correctly classified instances.
+
 Precision: Proportion of true positives among predicted positives.
+
 Recall: Proportion of true positives among actual positives.
+
 F1-Score: Harmonic mean of precision and recall.
 
 # Results

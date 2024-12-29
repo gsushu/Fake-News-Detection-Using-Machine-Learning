@@ -54,11 +54,11 @@ Confusion matrix shown below.
 Uses tree structures for decisions and classifications.
 Confusion matrix shown in below.
 
-![Confusion Matrix for Decision tree](Image/decision tree.png)
+![Confusion Matrix for Decision tree](Image/decision_tree.png)
 
 # Random Forest
-An ensemble method combining multiple decision trees.
+An ensemble method combining multiple decision_trees.
 Confusion matrix shown in below.
 
-![Confusion Matrix for Random Forest](Image/random forest.png)
+![Confusion Matrix for Random Forest](Image/random_forest.png)
 

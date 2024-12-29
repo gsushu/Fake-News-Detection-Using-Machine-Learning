@@ -35,15 +35,20 @@ The following algorithms are implemented and compared:
 # Support Vector Machine (SVM)
 Finds the hyperplane that best separates classes.
 Visualized with its confusion matrix.
+ ![Confusion Matrix for SVM](images/SVM.png)
 # Naive Bayes
 Based on Bayes' theorem for probabilistic classification.
 Confusion matrix shown below.
+![Confusion Matrix for Navie Bayes](images/Navie Bayes.png)
 # Logistic Regression
 Models binary outcomes with a logistic function.
 Confusion matrix shown below.
+![Confusion Matrix for Logistic Regression](images/Logistic Regression.png)
 # Decision Tree
 Uses tree structures for decisions and classifications.
 Confusion matrix shown in below.
+![Confusion Matrix for Decision tree](images/decision tree.png)
 # Random Forest
 An ensemble method combining multiple decision trees.
 Confusion matrix shown in below.
+![Confusion Matrix for Random Forest](images/random forest.png)

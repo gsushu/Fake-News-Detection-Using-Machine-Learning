@@ -42,7 +42,6 @@ Visualized with its confusion matrix.
 Based on Bayes' theorem for probabilistic classification.
 Confusion matrix shown below.
 
-
 ![Confusion Matrix for Navie Bayes](Image/Navie Bayes.png)
 
 # Logistic Regression

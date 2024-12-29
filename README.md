@@ -8,6 +8,14 @@ Automated detection of fake news using machine learning.
 Comparison of multiple classifiers based on accuracy, precision, recall, and F1-score.
 Visualizations of key trends using WordClouds and confusion matrices.
 
+# Dataset
+The dataset used for this project is sourced from Kaggle and consists of news articles labeled as real or fake. The dataset includes various features, such as:
+
+Title: The title of the news article.
+Text: The content of the article.
+Label: A binary indicator (1 = Fake, 0 = Real).
+Figure 6 illustrates the distribution of real and fake articles in the dataset.
+
 # Libraries and Tools Used
 The project uses the following Python libraries and tools:
 
@@ -39,11 +47,3 @@ Confusion matrix shown in below.
 # Random Forest
 An ensemble method combining multiple decision trees.
 Confusion matrix shown in below.
-
-# Dataset
-The dataset used for this project is sourced from Kaggle and consists of news articles labeled as real or fake. The dataset includes various features, such as:
-
-Title: The title of the news article.
-Text: The content of the article.
-Label: A binary indicator (1 = Fake, 0 = Real).
-Figure 6 illustrates the distribution of real and fake articles in the dataset.
